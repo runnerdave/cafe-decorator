@@ -1,4 +1,4 @@
-package net.runnerdave;
+package net.runnerdave.starbuzz;
 
 /**
  * Coffee shop decorator

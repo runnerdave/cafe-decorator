@@ -1,4 +1,4 @@
-package net.runnerdave;
+package net.runnerdave.starbuzz;
 
 /**
  * Created by davidajimenez on 26/05/2016.
