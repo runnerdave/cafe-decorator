@@ -17,7 +17,7 @@ public class App {
         beverage2 = new Mocha(beverage2);
         beverage2 = new Whip(beverage2);
 
-        System.out.println("after adding Mochax2 and whip:" + beverage2.getDescription() + " $" + beverage2.cost());
+        System.out.println("after adding Mocha x2 and whip:" + beverage2.getDescription() + " $" + beverage2.cost());
 
         beverage3 = new Soy(beverage3);
         beverage3 = new Mocha(beverage3);
